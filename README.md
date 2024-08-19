@@ -49,7 +49,7 @@ In Demographics page, the dashboard gives crucial information about the diversit
 Overall, HR Turnover and Diversity Dashboard project using PowerBI is an essential tool for any HR professional looking to gain deeper insights into their organization's HR data. By leveraging the power of PowerBI's data visualization and analysis tools, HR professionals can monitor and make data-driven decisions that can help drive organizational success.
 
 ## NOTE:
-I have uploaded the dataset link directly as I could not find the kaggle link. And also uploaded the dashboard file (.pbix) feel to download and interact with it. Any suggestion on any part of the project would be highly appriciated.
+I have uploaded the dataset link directly as I could not find the kaggle link. And also uploaded the dashboard file (.pbix) feel to download and interact with it. Any suggestion on any part of the project would be highly appreciated and valued.
 
 ## LINKS:
 
